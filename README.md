@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and codimd is the entry tha
 
 ## Images
 
-[![codimd](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![codimd](images/preview.png)](https://github.com/Swift-Tech-Co/codimd)
 
 ## HackMD
 
@@ -69,17 +69,17 @@ To stay up to date with your installation it's recommended to subscribe the [rel
 
 **License under AGPL.**
 
-[gitter-image]: https://www.swifttechco.com
-[gitter-url]: https://www.swifttechco.com
-[build-image]: https://www.swifttechco.com
-[build-url]: https://www.swifttechco.com
-[github-version-badge]: https://www.swifttechco.com
-[github-release-page]: https://www.swifttechco.com
-[github-release-feed]: https://www.swifttechco.com
-[poeditor-image]: https://www.swifttechco.com
-[poeditor-url]: https://www.swifttechco.com
-[matrix-image]: https://www.swifttechco.com
-[matrix-url]: https://www.swifttechco.com
+[gitter-image]: https://github.com/Swift-Tech-Co/codimd
+[gitter-url]: https://github.com/Swift-Tech-Co/codimd
+[build-image]: https://github.com/Swift-Tech-Co/codimd
+[build-url]: https://github.com/Swift-Tech-Co/codimd
+[github-version-badge]: https://github.com/Swift-Tech-Co/codimd
+[github-release-page]: https://github.com/Swift-Tech-Co/codimd
+[github-release-feed]: https://github.com/Swift-Tech-Co/codimd
+[poeditor-image]: https://github.com/Swift-Tech-Co/codimd
+[poeditor-url]: https://github.com/Swift-Tech-Co/codimd
+[matrix-image]: https://github.com/Swift-Tech-Co/codimd
+[matrix-url]: https://github.com/Swift-Tech-Co/codimd
 
 ---
 
@@ -95,13 +95,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/codimd
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [hackmdio/codimd](https://github.com/hackmdio/codimd) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
